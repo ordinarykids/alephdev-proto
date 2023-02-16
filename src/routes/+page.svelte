@@ -1,8 +1,7 @@
 <script>
 
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
-	
+
+
 	import { Footer } from 'flowbite-svelte'
 
 	let scroll;
